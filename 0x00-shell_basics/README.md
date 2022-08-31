@@ -5,3 +5,5 @@
 5- I wrote a script that display current directory contents, including hidden files (starting with .) using the long format
 6- I wrote a script that displays current directory contents using long format with user and group IDs displayed numerically and hidden files (starting with .) displayed
 7- I wrote a script that creates a directory named my-first-directory in the /tmp/ directory
+8- I wrote a script that moved the file: betty from /tmp/ to /tmp/my-first-directory
+
