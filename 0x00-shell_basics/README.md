@@ -8,3 +8,5 @@
 8- I wrote a script that moved the file: betty from /tmp/ to /tmp/my-first-directory
 9- I wrote a script that deleted the file: betty that is in /tmp/my-first-directory
 10- I wrote a script that deleted the directory: my-first-directory that is in /tmp directory
+11- I wrote a script that changes the working directory to the previous one
+
