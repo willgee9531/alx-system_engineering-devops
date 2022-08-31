@@ -6,5 +6,5 @@
 6- I wrote a script that displays current directory contents using long format with user and group IDs displayed numerically and hidden files (starting with .) displayed
 7- I wrote a script that creates a directory named my-first-directory in the /tmp/ directory
 8- I wrote a script that moved the file: betty from /tmp/ to /tmp/my-first-directory
-9- I wrote a script that deleted the file betty that is in /tmp/my-first-directory
-
+9- I wrote a script that deleted the file: betty that is in /tmp/my-first-directory
+10- I wrote a script that deleted the directory: my-first-directory that is in /tmp directory
