@@ -15,4 +15,5 @@
 15- I wrote a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory
 16- I wrote a script that moves all files beginning with an uppercase letter to the directory /tmp/u
 17- I wrote a script that deleted all files in the current working directory that end with the character ~
+18- I wrote a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory. Using only two spaces (and lines) in the script
 
