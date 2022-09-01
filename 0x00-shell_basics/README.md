@@ -9,6 +9,7 @@
 9- I wrote a script that deleted the file: betty that is in /tmp/my-first-directory
 10- I wrote a script that deleted the directory: my-first-directory that is in /tmp directory
 11- I wrote a script that changes the working directory to the previous one
-12- I wrote a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+12- I wrote a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
 13- I wrote a script that prints the type of the file named iamafile that is in the /tmp directory
+14- I wrote a created a symbolic link to /bin/ls, named __ls__. The symbolic link was created in the current working directory
 
