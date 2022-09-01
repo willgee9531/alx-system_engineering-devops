@@ -17,3 +17,4 @@
 17- I wrote a script that deleted all files in the current working directory that end with the character ~
 18- I wrote a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory. Using only two spaces (and lines) in the script
 19- I wrote a script that lists all the files and directories of the current directory, separated by commas (,). The directory names should end with a slash (/), Files and directories starting with a dot (.) should be listed, the listing should be alpha ordered, except for the directories . and .. which should be listed at the very beginning, only digits and letters are used to sort; Digits should come first, you can assume that all the files we will test with will have at least one letter or one digit, the listing should end with a new line
+20- I wrote a script that created a magic file school.mgc that can be used with the command file to detect School data files
