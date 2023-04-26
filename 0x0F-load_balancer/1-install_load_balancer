@@ -38,8 +38,8 @@ frontend willgee-tech-frontend
     default_backend willgee-tech-backend
 backend willgee-tech-backend
     balance roundrobin
-    server 132203-web-01 54.84.152.79:80 check
-    server 132203-web-02 54.157.173.215:80 check
+    server 132203-web-01 34.207.189.110:80 check
+    server 132203-web-02 34.232.52.247:80 check
 "
 
 # shellcheck disable=SC2154
